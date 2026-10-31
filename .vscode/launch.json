@@ -1,8 +1,6 @@
-
 {
     "version": "0.2.0",
     "configurations": [
-
         {
             "name": "Projeto Sandbox",
             "type": "coreclr",
@@ -15,72 +13,66 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 01: C# Exercicio 1",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio1",
-            "program": "${workspaceFolder}/semana01/Exercicio1/bin/Debug/net8.0/Exercicio1.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio1/bin/Debug/net10.0/Exercicio1.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio1",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 01: C# Exercicio 2",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio2",
-            "program": "${workspaceFolder}/semana01/Exercicio2/bin/Debug/net8.0/Exercicio2.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio2/bin/Debug/net10.0/Exercicio2.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio2",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 01: C# Exercicio 3",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio3",
-            "program": "${workspaceFolder}/semana01/Exercicio3/bin/Debug/net8.0/Exercicio3.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio3/bin/Debug/net10.0/Exercicio3.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio3",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 01: C# Exercicio 4",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio4",
-            "program": "${workspaceFolder}/semana01/Exercicio4/bin/Debug/net8.0/Exercicio4.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio4/bin/Debug/net10.0/Exercicio4.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio4",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 01: C# Exercicio 5",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio5",
-            "program": "${workspaceFolder}/semana01/Exercicio5/bin/Debug/net8.0/Exercicio5.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio5/bin/Debug/net10.0/Exercicio5.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio5",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 02: Curriculo",
             "type": "coreclr",
@@ -93,7 +85,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 02: Diario",
             "type": "coreclr",
@@ -106,7 +97,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 03: Fracoes",
             "type": "coreclr",
@@ -119,7 +109,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 03: Memorizador Escrituras",
             "type": "coreclr",
@@ -132,7 +121,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 04: Videos YouTube",
             "type": "coreclr",
@@ -145,7 +133,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 04: Pedidos Online",
             "type": "coreclr",
@@ -158,7 +145,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 05: Tarefas",
             "type": "coreclr",
@@ -171,7 +157,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 05: Introspeccao",
             "type": "coreclr",
@@ -184,7 +169,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 06: Figuras",
             "type": "coreclr",
@@ -197,7 +181,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 06: Metas Eternas",
             "type": "coreclr",
@@ -210,7 +193,6 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
         {
             "name": "Semana 07: Monitoramento Exercicios",
             "type": "coreclr",
@@ -223,6 +205,5 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
     ]
 }
