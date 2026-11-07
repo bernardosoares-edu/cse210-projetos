@@ -90,7 +90,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana02-Diario",
-            "program": "${workspaceFolder}/semana02/Diario/bin/Debug/net8.0/Diario.dll",
+            "program": "${workspaceFolder}/semana02/Diario/bin/Debug/net10.0/Diario.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana02/Diario",
             "console": "integratedTerminal",
