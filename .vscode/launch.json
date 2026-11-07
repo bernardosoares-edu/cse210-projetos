@@ -78,7 +78,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana02-Curriculo",
-            "program": "${workspaceFolder}/semana02/Curriculo/bin/Debug/net8.0/Curriculo.dll",
+            "program": "${workspaceFolder}/semana02/Curriculo/bin/Debug/net10.0/Curriculo.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana02/Curriculo",
             "console": "integratedTerminal",
