@@ -102,7 +102,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana03-Fracoes",
-            "program": "${workspaceFolder}/semana03/Fracoes/bin/Debug/net8.0/Fracoes.dll",
+            "program": "${workspaceFolder}/semana03/Fracoes/bin/Debug/net10.0/Fracoes.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana03/Fracoes",
             "console": "integratedTerminal",
