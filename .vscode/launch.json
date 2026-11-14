@@ -114,7 +114,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana03-MemorizadorEscrituras",
-            "program": "${workspaceFolder}/semana03/MemorizadorEscrituras/bin/Debug/net8.0/MemorizadorEscrituras.dll",
+            "program": "${workspaceFolder}/semana03/MemorizadorEscrituras/bin/Debug/net10.0/MemorizadorEscrituras.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana03/MemorizadorEscrituras",
             "console": "integratedTerminal",
